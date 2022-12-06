@@ -8,6 +8,18 @@ body {
     background-color: #d9dcd6;
 }
 
+#in-line{
+    /* margin: 0 auto; */
+    display: inline;
+    float: right;
+    padding-bottom: 20px; 
+    margin-right: 20px;   
+    text-align: center;
+         
+}
+
+
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
